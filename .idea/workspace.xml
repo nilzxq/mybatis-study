@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffeec32a-015c-4dab-b9ee-a6e16627b9a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/108c082d-0d43-4220-af4b-c5c1b791abe8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/108c082d-0d43-4220-af4b-c5c1b791abe8/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8433d9cc-113e-4cef-9dd1-fd6f0fd2dcfe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8433d9cc-113e-4cef-9dd1-fd6f0fd2dcfe/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9c694cd0-5808-4020-b32b-da18fd917599.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9c694cd0-5808-4020-b32b-da18fd917599/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d150296e-d3c0-47db-ac35-ffe60cb3b74c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d150296e-d3c0-47db-ac35-ffe60cb3b74c/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/src/main/java/com/nilzxq/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/src/main/java/com/nilzxq/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/src/main/java/com/nilzxq/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/src/main/java/com/nilzxq/utils/MyBatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/src/test/java/com/nilzxq/dao/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/classes/com/nilzxq/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/classes/com/nilzxq/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/classes/com/nilzxq/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/classes/com/nilzxq/utils/MyBatisUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/surefire-reports/TEST-com.nilzxq.dao.UserDaoTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/surefire-reports/com.nilzxq.dao.UserDaoTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-01/target/test-classes/com/nilzxq/dao/UserDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_second_kill: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g80aV0R2wOMMgkBWbksPSy7d1G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-01/target/test-classes/com/nilzxq/dao" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\mybatis-study\mybatis-01\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\mybatis-study\mybatis-01\target\test-classes\com\nilzxq\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserDaoTest.getUserLike">
+    <configuration name="UserDaoTest.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nilzxq.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nilzxq.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nilzxq.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="addUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.addUser2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nilzxq.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nilzxq.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nilzxq.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="addUser2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.deleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nilzxq.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nilzxq.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nilzxq.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="deleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.getUserLike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nilzxq.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nilzxq.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nilzxq.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="getUserLike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.updateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nilzxq.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nilzxq.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nilzxq.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="updateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDaoTest.getUserLike" />
+        <item itemvalue="JUnit.UserDaoTest.addUser2" />
+        <item itemvalue="JUnit.UserDaoTest.deleteUser" />
+        <item itemvalue="JUnit.UserDaoTest.updateUser" />
+        <item itemvalue="JUnit.UserDaoTest.addUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffeec32a-015c-4dab-b9ee-a6e16627b9a3" name="Default Changelist" comment="" />
+      <created>1597480975104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597480975104</updated>
+      <workItem from="1597480979058" duration="14003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="195" key="#Project_Structure" timestamp="1597497539648">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="446" y="195" key="#Project_Structure/0.0.1707.1067@0.0.1707.1067" timestamp="1597497539648" />
+    <state x="441" y="198" key="#UserDaoTest.test_(1)" timestamp="1597485745052">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="441" y="198" key="#UserDaoTest.test_(1)/0.0.1707.1067@0.0.1707.1067" timestamp="1597485745052" />
+    <state x="63" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597486636214">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="63" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1067@0.0.1707.1067" timestamp="1597486636214" />
+    <state x="659" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1597483621634">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="659" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1067@0.0.1707.1067" timestamp="1597483621634" />
+    <state x="634" y="292" key="FileChooserDialogImpl" timestamp="1597481035783">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="634" y="292" key="FileChooserDialogImpl/0.0.1707.1067@0.0.1707.1067" timestamp="1597481035783" />
+    <state width="1706" height="437" key="GridCell.Tab.0.bottom" timestamp="1597499927196">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state width="1706" height="437" key="GridCell.Tab.0.bottom/0.0.1707.1067@0.0.1707.1067" timestamp="1597499927196" />
+    <state width="1706" height="437" key="GridCell.Tab.0.center" timestamp="1597499927196">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state width="1706" height="437" key="GridCell.Tab.0.center/0.0.1707.1067@0.0.1707.1067" timestamp="1597499927196" />
+    <state width="1706" height="437" key="GridCell.Tab.0.left" timestamp="1597499927196">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state width="1706" height="437" key="GridCell.Tab.0.left/0.0.1707.1067@0.0.1707.1067" timestamp="1597499927196" />
+    <state width="1706" height="437" key="GridCell.Tab.0.right" timestamp="1597499927196">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state width="1706" height="437" key="GridCell.Tab.0.right/0.0.1707.1067@0.0.1707.1067" timestamp="1597499927196" />
+    <state width="1706" height="363" key="GridCell.Tab.1.bottom" timestamp="1597495638301">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state width="1706" height="363" key="GridCell.Tab.1.bottom/0.0.1707.1067@0.0.1707.1067" timestamp="1597495638301" />
+    <state width="1706" height="363" key="GridCell.Tab.1.center" timestamp="1597495638301">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state width="1706" height="363" key="GridCell.Tab.1.center/0.0.1707.1067@0.0.1707.1067" timestamp="1597495638301" />
+    <state width="1706" height="363" key="GridCell.Tab.1.left" timestamp="1597495638301">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state width="1706" height="363" key="GridCell.Tab.1.left/0.0.1707.1067@0.0.1707.1067" timestamp="1597495638301" />
+    <state width="1706" height="363" key="GridCell.Tab.1.right" timestamp="1597495638301">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state width="1706" height="363" key="GridCell.Tab.1.right/0.0.1707.1067@0.0.1707.1067" timestamp="1597495638301" />
+    <state width="218" height="477" key="HiddenNamespacesPopup" timestamp="1597482387084">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state width="218" height="477" key="HiddenNamespacesPopup/0.0.1707.1067@0.0.1707.1067" timestamp="1597482387084" />
+    <state x="521" y="358" key="SettingsEditor" timestamp="1597499638353">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="521" y="358" key="SettingsEditor/0.0.1707.1067@0.0.1707.1067" timestamp="1597499638353" />
+    <state x="698" y="236" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1597486496101">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="698" y="236" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1707.1067@0.0.1707.1067" timestamp="1597486496101" />
+    <state x="241" y="238" key="new project wizard" timestamp="1597481507212">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="241" y="238" key="new project wizard/0.0.1707.1067@0.0.1707.1067" timestamp="1597481507212" />
+    <state x="509" y="248" key="run.anything.popup" timestamp="1597495476312">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="509" y="248" key="run.anything.popup/0.0.1707.1067@0.0.1707.1067" timestamp="1597495476312" />
+    <state x="515" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1597485095739">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="515" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1707.1067@0.0.1707.1067" timestamp="1597485095739" />
+  </component>
+</project>
